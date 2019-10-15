@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SYCategoryKit_Example' do
+  pod 'SYCategoryKit', :path => '../'
+
+  target 'SYCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
