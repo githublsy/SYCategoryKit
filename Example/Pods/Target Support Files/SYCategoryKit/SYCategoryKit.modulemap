@@ -1,0 +1,6 @@
+framework module SYCategoryKit {
+  umbrella header "SYCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
