@@ -1,5 +1,5 @@
 PODS:
-  - SYCategoryKit (0.0.1)
+  - SYCategoryKit (0.0.3)
 
 DEPENDENCIES:
   - SYCategoryKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SYCategoryKit: e95b792f1e9790d8ba482de14ec6dfc86831b132
+  SYCategoryKit: a7a3bed1da8b3d78716166898e42d12298f9214e
 
 PODFILE CHECKSUM: 501ffe6b0fea1b876879066894f8bb9c60e5e503
 

@@ -10,8 +10,13 @@
 #endif
 #endif
 
+#import "NSArray+SYExtension.h"
 #import "NSDate+SYExtension.h"
+#import "NSDictionary+SYExtension.h"
+#import "NSObject+SYExtension.h"
+#import "UIControl+SYExtension.h"
 #import "UIView+SYExtension.h"
+#import "UIViewController+SYExtension.h"
 
 FOUNDATION_EXPORT double SYCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char SYCategoryKitVersionString[];

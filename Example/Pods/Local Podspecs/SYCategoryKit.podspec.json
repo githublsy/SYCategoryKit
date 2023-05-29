@@ -1,9 +1,9 @@
 {
   "name": "SYCategoryKit",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A short description of SYCategoryKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/githublsy",
+  "homepage": "https://github.com/githublsy/SYCategoryKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -13,10 +13,10 @@
   },
   "source": {
     "git": "https://github.com/githublsy/SYCategoryKit.git",
-    "tag": "0.0.1"
+    "tag": "0.0.3"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "10.0"
   },
   "source_files": "SYCategoryKit/Classes/**/*"
 }
